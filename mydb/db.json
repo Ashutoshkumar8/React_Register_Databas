@@ -1,0 +1,35 @@
+{
+  "student": [
+    {
+      "id": "1",
+      "userid": "ashu",
+      "name": "ashqw",
+      "email": "ashu@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "2",
+      "userid": "2",
+      "name": "ash",
+      "email": "ashu@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "0096",
+      "name": "ASHUTOSH",
+      "email": "ashu22@gmail.com",
+      "userid": "123",
+      "password": "1234"
+    },
+    {
+      "id": "2fdb",
+      "name": "ASHUTOSH",
+      "email": "ashu22@gmail.com",
+      "userid": "123",
+      "password": "1234"
+    },
+    {
+      "id": "959f"
+    }
+  ]
+}
